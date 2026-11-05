@@ -1,7 +1,7 @@
 {
   "uid": "lenvora-overview",
-  "title": "Tic-Tac-Toe — Service Overview",
-  "tags": ["tic-tac-toe", "opentelemetry"],
+  "title": "lenvora — Service Overview",
+  "tags": ["lenvora", "opentelemetry"],
   "timezone": "browser",
   "schemaVersion": 39,
   "version": 1,
